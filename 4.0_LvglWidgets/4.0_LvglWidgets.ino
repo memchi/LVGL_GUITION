@@ -24,7 +24,9 @@
  * Optional: Show CPU usage and FPS count
  * #define LV_USE_PERF_MONITOR 1
  ******************************************************************************/
-#include "lv_demo_widgets.h"
+#include <lvgl.h>   
+#include <demos/lv_demos.h>  
+// #include "lv_demo_widgets.h"
 
 /*******************************************************************************
  * Start of Arduino_GFX setting
